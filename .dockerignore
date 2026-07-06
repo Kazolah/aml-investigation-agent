@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+*.db
+data/sar_output/
+data/mock_transactions.db
+.pytest_cache/
+.DS_Store
+*.egg-info/
+dist/
+build/
+docs/architecture.png

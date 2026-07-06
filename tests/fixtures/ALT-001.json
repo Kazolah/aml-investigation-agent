@@ -1,0 +1,11 @@
+{
+  "alert_id": "ALT-001",
+  "account_id": "ACC-001",
+  "rule_fired": "STRUCTURING",
+  "amount": 9650.0,
+  "currency": "CAD",
+  "counterparty": "Cash Deposit",
+  "counterparty_account": null,
+  "timestamp": "2026-07-05T09:14:22",
+  "alert_metadata": "{\"rule_description\": \"Multiple cash deposits below $10,000 CAD reporting threshold within 24 hours\", \"transaction_count\": 4, \"total_structured_amount\": 38420.0, \"threshold\": 10000.0}"
+}

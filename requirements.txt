@@ -1,0 +1,26 @@
+# Agent orchestration — pinned for compatibility
+langgraph==0.2.76
+langgraph-checkpoint==2.0.10
+langgraph-checkpoint-sqlite==2.0.2
+langchain==0.3.25
+langchain-openai==0.2.14
+langchain-core==0.3.59
+
+# Observability
+langsmith>=0.1.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# PDF generation
+reportlab>=4.0.0
+
+# Human review UI
+streamlit>=1.35.0
+
+# Testing
+pytest>=8.0.0
+pytest-mock>=3.12.0
+
+# Utilities
+python-dateutil>=2.9.0

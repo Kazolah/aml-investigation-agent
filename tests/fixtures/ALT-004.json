@@ -1,0 +1,11 @@
+{
+  "alert_id": "ALT-004",
+  "account_id": "ACC-004",
+  "rule_fired": "PEP_COUNTERPARTY",
+  "amount": 42000.0,
+  "currency": "CAD",
+  "counterparty": "Viktor Marchenko",
+  "counterparty_account": "IBAN-UA903052992990004149123456789",
+  "timestamp": "2026-07-05T16:48:11",
+  "alert_metadata": "{\"rule_description\": \"Incoming wire from politically exposed person\", \"pep_name\": \"Viktor Marchenko\", \"pep_position\": \"Former Deputy Minister of Finance\", \"pep_country\": \"UA\", \"match_confidence\": 0.97}"
+}

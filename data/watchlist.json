@@ -1,0 +1,83 @@
+{
+  "last_updated": "2024-01-15",
+  "source_note": "Mock data for POC only. Does not represent real individuals or entities.",
+  "ofac_sdn": [
+    {
+      "id": "SDN-001",
+      "name": "Global Trade Corp",
+      "aliases": ["Global Trading Corporation", "GTC International"],
+      "list": "OFAC_SDN",
+      "program": "SDGT",
+      "country": "IR",
+      "reason": "Sanctions evasion — shell company used to circumvent Iran sanctions",
+      "added_date": "2022-03-14"
+    },
+    {
+      "id": "SDN-002",
+      "name": "Apex Finance LLC",
+      "aliases": ["Apex Financial Services", "Apex FN"],
+      "list": "OFAC_SDN",
+      "program": "DPRK",
+      "country": "KP",
+      "reason": "North Korea sanctions — linked to WMD proliferation financing",
+      "added_date": "2021-11-02"
+    },
+    {
+      "id": "SDN-003",
+      "name": "Eastern Metals Trading",
+      "aliases": ["East Metals Trade Co", "EMT Trading"],
+      "list": "OFAC_SDN",
+      "program": "RUSSIA-EO14024",
+      "country": "RU",
+      "reason": "Russia sanctions — linked to defence sector procurement",
+      "added_date": "2022-06-30"
+    }
+  ],
+  "pep": [
+    {
+      "id": "PEP-001",
+      "name": "Viktor Marchenko",
+      "aliases": ["Victor Marchenko", "V. Marchenko"],
+      "list": "PEP",
+      "position": "Former Deputy Minister of Finance",
+      "country": "UA",
+      "risk_level": "high",
+      "notes": "Subject of asset freeze investigation 2021–2023",
+      "added_date": "2021-05-10"
+    },
+    {
+      "id": "PEP-002",
+      "name": "Reginald Okonkwo",
+      "aliases": ["R. Okonkwo", "Reggie Okonkwo"],
+      "list": "PEP",
+      "position": "State Governor (serving)",
+      "country": "NG",
+      "risk_level": "medium",
+      "notes": "Active PEP — serving public official",
+      "added_date": "2020-01-01"
+    },
+    {
+      "id": "PEP-003",
+      "name": "Chen Wei International Consulting",
+      "aliases": ["CW Consulting", "Chen Wei Consulting Ltd"],
+      "list": "PEP",
+      "position": "Linked entity — PEP-associated business",
+      "country": "CN",
+      "risk_level": "high",
+      "notes": "Company linked to PEP family members; FATF grey list jurisdiction",
+      "added_date": "2023-02-18"
+    }
+  ],
+  "adverse_media": [
+    {
+      "id": "AM-001",
+      "name": "FastCash Express Ltd",
+      "aliases": ["Fast Cash Express", "FCE Ltd"],
+      "list": "ADVERSE_MEDIA",
+      "headline": "FastCash Express Ltd named in RCMP investigation into informal value transfer network",
+      "source": "CBC News",
+      "date": "2023-08-22",
+      "risk_level": "high"
+    }
+  ]
+}

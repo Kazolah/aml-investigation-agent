@@ -1,0 +1,11 @@
+{
+  "alert_id": "ALT-003",
+  "account_id": "ACC-003",
+  "rule_fired": "HIGH_RISK_JURISDICTION",
+  "amount": 51200.0,
+  "currency": "CAD",
+  "counterparty": "Global Trade Corp",
+  "counterparty_account": "SWIFT-AYABANK-MM-00192",
+  "timestamp": "2026-07-05T14:05:55",
+  "alert_metadata": "{\"rule_description\": \"SWIFT wire to FATF grey-listed jurisdiction\", \"destination_country\": \"MM\", \"destination_country_name\": \"Myanmar\", \"fatf_list\": \"grey\", \"beneficiary_bank\": \"Ayeyarwady Bank\", \"beneficiary_city\": \"Yangon\"}"
+}

@@ -1,0 +1,11 @@
+{
+  "alert_id": "ALT-005",
+  "account_id": "ACC-005",
+  "rule_fired": "ADVERSE_MEDIA",
+  "amount": 4800.0,
+  "currency": "CAD",
+  "counterparty": "FastCash Express Ltd",
+  "counterparty_account": null,
+  "timestamp": "2026-07-05T08:22:33",
+  "alert_metadata": "{\"rule_description\": \"Counterparty linked to adverse media \\u2014 potential informal value transfer\", \"media_headline\": \"FastCash Express Ltd named in RCMP investigation into informal value transfer network\", \"media_source\": \"CBC News\", \"media_date\": \"2023-08-22\"}"
+}

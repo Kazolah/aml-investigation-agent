@@ -1,0 +1,11 @@
+{
+  "alert_id": "ALT-002",
+  "account_id": "ACC-002",
+  "rule_fired": "VELOCITY_ANOMALY",
+  "amount": 52400.0,
+  "currency": "CAD",
+  "counterparty": "Overseas Supplier Co",
+  "counterparty_account": "IBAN-DE89370400440532013000",
+  "timestamp": "2026-07-05T11:32:07",
+  "alert_metadata": "{\"rule_description\": \"Account daily volume exceeds 10x 90-day average\", \"current_day_volume\": 52400.0, \"avg_daily_volume_90d\": 487.5, \"velocity_ratio\": 10.75}"
+}
